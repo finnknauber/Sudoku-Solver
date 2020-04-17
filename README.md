@@ -1,4 +1,4 @@
-# sudokusolver
+# Sudokusolver
 Generates, solves and displays sudokus using pygame and recursion
 
 Controls:
